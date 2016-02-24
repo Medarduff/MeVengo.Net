@@ -10,6 +10,7 @@
 <p>&nbsp;</p>
 <p><a href="/subir.php">Subir Archivo</a></p>
 <ul>
+<li>Home-page</li>
 <li>Subir Archivo</li>
 <li>Poner Barra de progreso</li>
 <li>Generar un nombre al azar al archivo</li>
